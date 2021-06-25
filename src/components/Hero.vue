@@ -3,9 +3,9 @@
     <v-row align="center" justify="center">
       <v-col/>
       <v-col>
-        <h1 class="display-2 font-weight-thin mb-4 text-center">{{heroData.hero.heroTitle}}</h1>
+        <h1 class="display-3 font-weight-bold mb-4 text-center black--text">{{heroData.hero.heroTitle}}</h1>
         <br />
-        <h4 class="subheading text-center">{{heroData.hero.heroSubtitle}}</h4>
+        <h4 class="subheading font-weight-bold mb-4 text-center black--text">{{heroData.hero.heroSubtitle}}</h4>
       </v-col>
       <v-col/>
     </v-row>

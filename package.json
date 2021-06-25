@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@gridsome/remark-prismjs": "^0.2.0",
+    "@vue/cli-plugin-pwa": "^4.5.13",
     "gridsome": "^0.7.17",
     "vuetify": "^2.3.0"
   },

@@ -1,7 +1,7 @@
 ---
-preview_image: "/uploads/kevin-mueller-2E1VBZb0AI0-unsplash.jpg"
-author: Author Name
-title: Title
+preview_image: "./god.jpg"
+author: Some wooden deity
+title: Godhood is near
 published: true
 date: 2019-10-15T05:00:00Z
 excerpt: This is a summary of the blog post that will display in the article list.
