@@ -1,10 +1,10 @@
 ---
-preview_image: "/uploads/undraw_plans_y8ru.png"
-author: Author Name 2
-title: Title 2 
+preview_image: "../static/buddha.jpg"
+author: Kinnear
+title: Has Departed 
 published: true
-date: 2019-09-15T05:00:00Z
-excerpt: This is a summary of the blog post that will display in the article list.
+date: 2020-08-15T05:00:00Z
+excerpt: Life is like a train station.
 ---
 
 This is a blog post with content.

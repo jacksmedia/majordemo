@@ -1,6 +1,6 @@
 ---
-preview_image: "/uploads/undraw_hologram_fjwp.png"
-author: Author Name
+preview_image: "./god.jpg"
+author: Author4
 title: Title
 published: true
 date: 2019-09-15T05:00:00Z
