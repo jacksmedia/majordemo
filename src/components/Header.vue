@@ -18,9 +18,13 @@
       </v-btn>
 
       <v-spacer></v-spacer>
-      <v-btn icon>
-        <v-icon>fa-search</v-icon>
-      </v-btn>
+       <v-btn
+        color="purple"
+        elevation="2"
+        @click="installer()"
+        :style="{'display': installBtnStyle}">
+          Install!
+        </v-btn>
       <v-toolbar-items class="d-none d-sm-flex">
         <v-btn text to="/">Home</v-btn>
         <v-btn text to="/about">About</v-btn>
@@ -85,12 +89,42 @@ export default {
         { title: "Articles", icon: "fa-newspaper", path: "/articles" },
         { title: "Contact", icon: "fa-envelope", path: "/contact" }
       ],
-      mini: false
+      mini: false,
+      installBtnStyle: "none",
+      installer: undefined
     };
   },
   methods: {
     toggle() {
       this.collapse = !this.collapse;
+    },
+    created() {
+      let installPrompt;
+
+      window.addEventListener("beforeInstallPrompt", e => {
+        // bugfix for Chrome 67 and earlier
+        e.preventDefault();
+        // save event for later triggering
+        installPrompt = e;
+        // update UI btn viz, for Add To Home Screen feature
+        this.installBtnStyle = "block";
+      });
+
+      this.installer = () => {
+        // hides UI btn
+        this.installBtnStyle = "none";
+        // show prompt
+        installPrompt.prompt();
+        // await user feedback
+        installPrompt.userChoice.then(result => {
+          if (result.outcome === "accepted") {
+            console.log("User says YES");
+          } else {
+            console.log("User says NO");
+          }
+          installPrompt = null;
+        });
+      };
     }
   }
 };

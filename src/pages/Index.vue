@@ -9,19 +9,19 @@
       <v-img height="500px" :src="item.node.preview_image"> </v-img>
 
       <v-card-text>
-        <h3 class="primary--text font-weight-bold mx-0 display-2 px-xs-5">
+        <h3 class="primary--text font-weight-bold mx-0 display-2 px-xs-4">
           {{ item.node.title }}
         </h3>
         <br />
-        <span class="px-xs-5">{{ item.node.author }}</span
+        <span class="px-xs-3">{{ item.node.author }}</span
         ><br />
-        <span class="px-xs-5"
+        <span class="px-xs-3"
           >Date: {{ item.node.date }} | Time: {{ item.node.timeToRead }} min to
           read</span
         >
       </v-card-text>
       <v-card-actions>
-        <v-btn text color="orange" :href="item.node.path">Read More</v-btn>
+        <v-btn text color="blue" :href="item.node.path">Read More</v-btn>
       </v-card-actions>
     </v-card>
   </Layout>
