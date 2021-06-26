@@ -3,7 +3,7 @@ import DefaultLayout from "~/layouts/Default.vue";
 
 import "vuetify/dist/vuetify.min.css";
 import colors from "vuetify/lib/util/colors";
-import './registerServiceWorker'
+if (process.client) require("./registerServiceWorker"); // amended to resolve PWA build error
 
 export default function(Vue, { appOptions, head }) {
   head.link.push({
