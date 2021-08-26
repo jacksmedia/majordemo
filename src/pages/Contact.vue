@@ -1,10 +1,10 @@
 <template>
   <Layout>
     <v-container>
-      <h1>Contact Us</h1>
-      <p>Send a message, and we'll reply as soon as possible!</p>
+      <h1>Drop Jacks a Line</h1>
+      <p>This web form brought to you by AWS Lambdas, not a server. Servers waste money! I'll reply as soon as possible.</p>
 
-      <v-form ref="form" v-model="valid" lazy-validation name="contact">
+      <v-form ref="form" v-model="valid" lazy-validation name="contact" netlify>
         <v-text-field
           v-model="name"
           :counter="30"
