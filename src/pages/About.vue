@@ -5,8 +5,8 @@
         <v-col md="4" cols="12">
           <v-card class="pa-5">
             <div class="text-center">
-              <v-avatar size="256" color="primary">
-                <img src="https://cdn.vuetifyjs.com/images/cards/docks.jpg" />
+              <v-avatar size="234" color="primary">
+                <img src="https://stash23.s3.us-west-2.amazonaws.com/fake+heatviz.png" />
               </v-avatar>
             </div>
             <v-card-title class="align-end fill-height">{{aboutData.aboutMe.name}}</v-card-title>
@@ -42,7 +42,7 @@
 
       <v-row>
         <v-col cols="12">
-          <div class="display-2 text-center my-5">My Developer Story</div>
+          <div class="display-2 text-center my-5">Career Milestones</div>
           <Timeline :timeline="aboutData.aboutMe.timeline" />
         </v-col>
       </v-row>

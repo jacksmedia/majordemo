@@ -13,24 +13,29 @@
       </v-card-text>
 
       <v-card-text class="white--text pt-0">
-        <a class="white--text" href="https://alexanderjacks.info" target="_blank"
+        All <v-icon class="white--text">fa-laptop-code</v-icon> & <v-icon class="white--text">fa-camera</v-icon> 
+        <br/>
+        <a class="white--text" href="https://j4cks.com" target="_blank"
           >Alexander Jacks</a
         >
-        <br/>
-        <v-icon class="white--text">fa-laptop-code</v-icon> & <v-icon class="white--text">fa-camera</v-icon>
-        
-        
       </v-card-text>
 
       <v-divider></v-divider>
 
-      <v-card-text class="white--text">
-        {{ new Date().getFullYear() }} — 
-        <strong>
+      <v-card-text class="flex-column justify-center align-center">
+        <div class="white--text">
+          {{ new Date().getFullYear() }}
+        </div>
+        <div>
+          <a href="https://jacks.media" target="_blank">
+            <g-image src="~/favicon.png" height="35" width="50" class="mr-5" />
+          </a>
+        </div>
+        <div>
           <a class="white--text" href="https://jacks.media" target="_blank">
             Jacks Media
           </a>
-        </strong>
+        </div>
       </v-card-text>
     </v-card>
   </v-footer>
@@ -41,10 +46,9 @@ export default {
   components: {},
   data: () => ({
     icons: [
-      "fab fa-facebook",
-      "fab fa-twitter",
       "fab fa-linkedin",
-      "fab fa-instagram"
+      "fab fa-instagram",
+      "fab fa-twitter"
     ]
   })
 };

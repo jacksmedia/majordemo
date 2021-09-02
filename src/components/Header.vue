@@ -11,8 +11,8 @@
         @click="toggle"
       ></v-app-bar-nav-icon>
       <v-btn text large href="/">
-        <g-image src="~/favicon.png" height="35" width="35" class="mr-5" />
-        <span class="headline font-weight-bold">{{
+        <g-image src="~/favicon.png" height="35" width="50" class="mr-5" />
+        <span class="headline font-weight-bold"">{{
           $static.metadata.siteName
         }}</span>
       </v-btn>

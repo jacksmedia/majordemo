@@ -21,7 +21,7 @@
         >
       </v-card-text>
       <v-card-actions>
-        <v-btn text color="blue" :href="item.node.path">Read More</v-btn>
+        <v-btn text color="red" :href="item.node.path">Read More</v-btn>
       </v-card-actions>
     </v-card>
   </Layout>

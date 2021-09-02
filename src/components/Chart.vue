@@ -6,7 +6,7 @@
     <v-card-title>
       <v-row align="start">
         <div class="mx-5 subtitle black--text text-uppercase">
-          Professional Skills
+          Engineering & Technical Skills
         </div>
       </v-row>
     </v-card-title>
@@ -15,7 +15,7 @@
       <v-sparkline
         key="test"
         :smooth="16"
-        :gradient="['#f72047', '#ffd200', '#1feaea']"
+        :gradient="['#dd3500', '#57a6e7', '#1feaea']"
         :line-width="3"
         type="bar"
         :value="values"

@@ -23,7 +23,7 @@ export default function(Vue, { appOptions, head }) {
     theme: {
       themes: {
         light: {
-          primary: colors.teal.darken2,
+          primary: colors.teal.darken4,
           secondary: "#424242",
           accent: "#82B1FF",
           error: "#FF5252",

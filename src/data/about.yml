@@ -1,38 +1,53 @@
 aboutMe:
-  name: Full Name
-  title: Full Stack Developer
-  bio: This is a short bio about me.
-  long_summary_title: My Journey
+  name: Alexander Jacks
+  title: JavaScript Dev and AWS Certified IaaS specialist
+  bio: Deep experience in web architectures, DoD networking background. Psych degree.
+  long_summary_title: Broad Technical Expertise
   long_summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.
   hashtags: 
     - '#javascript'
-    - '#traveler'
-    - '#dancer'
-    - '#chef'
+    - '#aws'
+    - '#cascadia'
+    - '#futurism'
+    - '#ethereum'
+    - '#8bit'
   timeline: 
-    - event: 2001
-      caption: early software development career cut short by 9/11/01 in NYC
-      desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
-    - event: 2019
-      caption: Jacks Consulting LLC, AWS Certification
-      desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
     - event: 2020
-      caption: Jacks Media
-      desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
+      caption: 📱📺📈 Jacks Media
+      desc: Founded media company to explore passive income via Google Ads running on static sites hosted in AWS S3 and Netlify CI/CD platform.
+    - event: 2019
+      caption: 💵📲🎨 Jacks Consulting LLC + AWS Certification
+      desc: Created business technology consultancy & earned Solutions Architect certification. Devise web scraping software in Python, use to populate websites.
+    - event: 2017
+      caption: 🎓💻📚 graduated coding school (Portland, OR)
+      desc: Learned JavaScript web/mobile development UI/UX design. JavaScript & HTML3.
+    - event: 2011
+      caption: 📦💾 Shadowcreek Software
+      desc: Co-founded SaaS company (CMS in PHP w S3 storage); first official business venture.
+    - event: 200x
+      caption: ⁉️⁉️ Holy cats what did I do this time!
+      desc: QED, I'm amazing.
+    - event: 2004
+      caption: 🗜🛠 U.S. Air Force Electronics & Switching tech schools
+      desc: CCNA-equivalent training in commercial routing devices.
+    - event: 2002
+      caption: 🎓💻📓 graduated coding school (NYC, NY)
+      desc: Learned some Java development & relevant production, deployment (packaging into jar files), plus UI/UX design by mocking up Windows apps, and key JavaScript & HTML3 skills.
+    
   skills:
     - name: Node.js
-      rank: 7
+      rank: 4
     - name: HTML
       rank: 10
     - name: CSS
       rank: 8
-    - name: Javascript
-      rank: 10
+    - name: JavaScript
+      rank: 8
     - name: Python
-      rank: 5
-    - name: MySQL
       rank: 3
-    - name: React
+    - name: React/Gatsby
       rank: 9
     - name: AWS
+      rank: 7
+    - name: DNS
       rank: 9
