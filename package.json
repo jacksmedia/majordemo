@@ -1,5 +1,5 @@
 {
-  "name": "Alex Jacks Blog",
+  "name": "vuetify-starter",
   "private": true,
   "scripts": {
     "build": "gridsome build",
