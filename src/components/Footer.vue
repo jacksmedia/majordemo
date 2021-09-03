@@ -21,6 +21,10 @@
       </v-card-text>
 
       <v-divider></v-divider>
+        <h1 class="white--text" :style="{'text-shadow': '0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1)'}">
+          Nothing on this page can be taken as Financial Advice.
+        </h1>
+      <v-divider></v-divider>
 
       <v-card-text class="flex-column justify-center align-center">
         <div class="white--text">
@@ -49,6 +53,11 @@ export default {
       "fab fa-linkedin",
       "fab fa-instagram",
       "fab fa-twitter"
+    ],
+    sociallinks: [
+      "https://www.facebook.com/alexanderd.jacks/",
+      "https://www.instagram.com/__j4cks__/",
+      "https://twitter.com/__j4cks__/"
     ]
   })
 };
