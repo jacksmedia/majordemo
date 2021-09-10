@@ -2,7 +2,7 @@
   <v-app>
     <Header />
     <Hero v-if="isHome" />
-    <v-container fill-height class="d-sm-none d-md-flex">
+    <v-container fill-height class="d-md-flex global-bg">
       <slot />
     </v-container>
     <Footer />
@@ -28,4 +28,8 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+  .global-bg {
+    background: radial-gradient(papayawhip, snow, white);
+  }
+</style>

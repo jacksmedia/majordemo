@@ -3,7 +3,7 @@ aboutMe:
   title: JavaScript Dev and AWS Certified IaaS specialist
   bio: Deep experience in web architectures with a TS DoD networking background. Psych degree, AWS cert, open source & DAO enthusiast.
   long_summary_title: Technical Expertise
-  long_summary: I can build websites and PWAs (progressive web apps) using some of these technologies, in no particular order-- AWS Lambdas, Azure Functions, CSS3, JavaScript8, HTML5, PHP, Sketch, Photoshop, SSGs, CI/CD, WordPress, Shopify. I discovered Ethereum in 2017 and haven't felt the same about digital records nor currencies ever since.
+  long_summary: I can build websites and PWAs (progressive web apps) using some of these technologies, in no particular order-- AWS (Amplify, Lambdas, Cloudfront), Azure Functions, nodeJS, JSX, Markdown, ReactJS, VueJS, CSS3, HTML5, PHP, Sketch, Photoshop, SSGs, CI/CD, Gatsby, WordPress, Shopify, Gridsome, Docusaurus. I discovered Ethereum in 2017 and haven't felt the same about digital records nor currencies ever since.
   hashtags: 
     - '#javascript'
     - '#aws'
@@ -20,24 +20,24 @@ aboutMe:
       desc: Built new features for ecommerce platform, earned AWS Solutions Architect certification.
     - event: 2018
       caption: 💵📲🎨 Jacks Consulting LLC
-      desc: Created business technology consultancy & taught myself React. Began to deploy JAMstack sites via CI/CD instead of cloud instances.
+      desc: Created business technology consultancy & taught myself ReactJS, then Gatsby static site generator. Began to deploy JAMstack sites via CI/CD instead of cloud buckets.
     - event: 2017
       caption: 🎓⚗️💻 coding bootcamp (Portland, OR)
-      desc: Trained in JavaScript web/mobile development UI/UX design. JavaScript & HTML3.
+      desc: Trained in JavaScript web/mobile development UI/UX design. JavaScript/ES6 & HTML5.
     - event: 2015
       caption: 🎓💻📚 data mining course (San Jose State)
       desc: Learned fundamentals of training supervised ML algos.
     - event: 2011
       caption: 📦💾 Shadowcreek Software
-      desc: Co-founded SaaS company (PHP servers w S3 storage); first official business venture.
+      desc: Co-founded SaaS company (PHP servers using AWS EC2 & S3 storage); first official business venture.
     - event: 2006
       caption: 📡🥇 contributed to USAF award
       desc: Provided key troubleshooting and training in Top Secret U.S. Air Force unit, helped win global performance award.
     - event: 2004
-      caption: 🗜🛠 U.S. Air Force Electronics & Switching tech schools
+      caption: 🗜🛠 US Air Force Electronics & Switching tech schools
       desc: CCNA-equivalent training in commercial routing devices.
     - event: 2002
-      caption: 🎓💻📓 web development school (NYC, NY)
+      caption: 🎓💻📓 web development program (NYC, NY)
       desc: Learned some Java development & relevant production, deployment (packaging into jar files), plus UI/UX design by mocking up Windows apps, and key JavaScript & HTML3 skills.
     
   skills:
