@@ -7,8 +7,10 @@
       width="100%"
     >
       <v-card-text>
-        <v-btn v-for="icon in icons" :key="icon" class="mx-4 white--text" icon>
-          <v-icon size="24px">{{ icon }}</v-icon>
+        <v-btn v-for="(index, name, value) in myLinks" :key="index" class="mx-4 white--text" icon>
+          <a :href="name">
+          <v-icon size="3rem" class="white--text">{{ index }}</v-icon>
+          </a>
         </v-btn>
       </v-card-text>
 
@@ -49,16 +51,11 @@
 export default {
   components: {},
   data: () => ({
-    icons: [
-      "fab fa-linkedin",
-      "fab fa-instagram",
-      "fab fa-twitter"
-    ],
-    sociallinks: [
-      "https://www.facebook.com/alexanderd.jacks/",
-      "https://www.instagram.com/__j4cks__/",
-      "https://twitter.com/__j4cks__/"
-    ]
+    myLinks: {
+      'https://www.linkedin.com/in/alexander-jacks/': 'fab fa-linkedin',
+      'https://www.instagram.com/__j4cks__/': 'fab fa-instagram',
+      'https://twitter.com/__j4cks__': 'fab fa-twitter'
+    },
   })
 };
 </script>
