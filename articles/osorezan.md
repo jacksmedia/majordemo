@@ -14,24 +14,26 @@ Osorezan (Doom Mountain) is mythically an entrance to the underworld, yet this b
 
 It does have the same little fortunes and souvenirs that every shrine in Japan offers, but it seems to mostly exist for Buddhist ceremonies surrounding childrens' ghosts. There's also a very pragmatic and unfancy bathhouse that takes advantage of the doubtless amazing mineral waters.
 
+## Osorezan, Mount Doom
 ![yikes, Osorezan](../static/file2035.jpg)
-## Osorezan, Mount Doom
-Not the bathhouse. An ornate gateway near the entrance.
+<br> Not the bathhouse. An ornate gateway near the entrance.
 
-![yikes, Osorezan](../static/file2093.jpg)
 ## Natural piles of rock and sulphur slag seep smelly gas
-Coins get piled around the vents and slowly corrode and melt from the earth's heat and poison.
+![yikes, Osorezan](../static/file2093.jpg)
+<br> Coins get piled around the vents and slowly corrode and melt from the earth's heat and poison.
 
-![yikes, Osorezan](../static/file2172.jpg)
 ## Osorezan, Mount Doom
-I saw many jizo statues wearing custom outfits, perhaps evoking the memory of kid's clothes. Many of the jizo here are the size of children, larger than usual. Collections of many tiny jizo are also everywhere.
+![yikes, Osorezan](../static/file2172.jpg)
+<br> I saw many jizo statues wearing custom outfits, perhaps evoking the memory of kid's clothes. Many of the jizo here are the size of children, larger than usual. Collections of many tiny jizo are also everywhere.
 
-![yikesinwheel prayers, Osorezan](../static/file3625.jpg)
 ## Pinwheels spin prayers in the thick, volcanic air
-Crows eat offerings of candy and snack food, but only after the family leaves. This is Japan: the baseline politeness is absurd.
+![yikesinwheel prayers, Osorezan](../static/file3625.jpg)
+<br> Crows eat offerings of candy and snack food, but only after the family leaves. This is Japan: the baseline politeness is absurd.<br>
 
+## An acid lake surrounds Osorezan
 ![Bridge over Acid Water, Osorezan](../static/file3582.jpg)
-## Ac acid lake surrounds Osorezan
-The water is dangerous just like a poison zone in a JRPG!
+<br> The water is dangerous just like a poison zone in a JRPG!
+
+
 
 If you ever have the chance to visit Mt. Doom at the top of Japan, do not hesitate. These pictures were taken in late August 2008, and there were no fees to park nor enter at the time (donations were welcome). I feel incredibly lucky to have discovered and experienced this sincere, hidden place.

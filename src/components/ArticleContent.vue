@@ -11,15 +11,14 @@ export default {
 </script>
 
 <style>
-h1 {
-  margin-top: 2vh;
+h2 {
+  margin-top: 4vh;
 }
 p {
   color: #004E3F;
-  margin-top: 1vh;
+  padding-bottom: 3vh;
 }
 .g-image {
   width: 87.5%;
-  fit: outside;
 }
 </style>
