@@ -3,7 +3,7 @@ aboutMe:
   title: JavaScript Dev and AWS Certified IaaS specialist
   bio: Deep experience in web architectures with a TS DoD networking background. Psych degree, AWS cert, open source & DAO enthusiast.
   long_summary_title: Technical Expertise
-  long_summary: I can build websites and PWAs (progressive web apps) using some of these technologies, in no particular order-- AWS (Amplify, Lambdas, Cloudfront), Azure Functions, nodeJS, JSX, Markdown, ReactJS, VueJS, CSS3, HTML5, PHP, Sketch, Photoshop, SSGs, CI/CD, Gatsby, WordPress, Shopify, Gridsome, Docusaurus. I discovered Ethereum in 2017 and haven't felt the same about digital records nor currencies ever since.
+  long_summary: I can build websites and PWAs (progressive web apps) using some of these technologies, in no particular order-- AWS (Amplify, Lambdas, Cloudfront), Azure Functions, nodeJS, JSX, Markdown, ReactJS, VueJS, CSS3, HTML5, PHP, Sketch, Photoshop, SSGs, CI/CD, Gatsby, WordPress, Shopify, Gridsome, Docusaurus. Lose time when I work with colors and gradients; enjoy both copywriting and infrastructure debugging. Discovered Ethereum in 2017 and after it helped pay for my honeymoon I haven't felt the same about digital records nor currencies ever since. Began hacking PC games in the 1990s, still emulating ancient hardware for fun.
   hashtags: 
     - '#javascript'
     - '#aws'
@@ -13,20 +13,20 @@ aboutMe:
     - '#8bit'
   timeline: 
     - event: 2020
-      caption: 📱📺📈 Jacks Media
-      desc: Founded media company to explore passive income via Google Ads running on static sites hosted in AWS S3 and Netlify. Generated content from bespoke web scraping software.
+      caption: 📱📺📈 Jacks Media LLC
+      desc: Founded media company to explore passive income via Google Ads running on static sites hosted in AWS S3 and Netlify. Generated content from bespoke web scraping software (Python & Markdown).
     - event: 2019
       caption: 🔖 internship + certification
-      desc: Built new features for ecommerce platform, earned AWS Solutions Architect certification.
+      desc: Built new search features in jQuery for established .Net ecommerce platform. Earned AWS Solutions Architect certification.
     - event: 2018
       caption: 💵📲🎨 Jacks Consulting LLC
-      desc: Created business technology consultancy & taught myself ReactJS, then Gatsby static site generator. Began to deploy JAMstack sites via CI/CD instead of cloud buckets.
+      desc: Created business technology consultancy & taught myself ReactJS, then Gatsby static site generator. Began to deploy JAMstack sites vs Firebase via CI/CD vs cloud buckets.
     - event: 2017
       caption: 🎓⚗️💻 coding bootcamp (Portland, OR)
-      desc: Trained in JavaScript web/mobile development UI/UX design. JavaScript/ES6 & HTML5.
+      desc: Completed courses in JavaScript web/mobile development focusing on UI/UX design; JavaScript/ES6 & HTML5 with Bootstrap + Sketch.
     - event: 2015
       caption: 🎓💻📚 data mining course (San Jose State)
-      desc: Learned fundamentals of training supervised ML algos.
+      desc: Learned fundamentals of training supervised ML algos using RapidMiner toolkit.
     - event: 2011
       caption: 📦💾 Shadowcreek Software
       desc: Co-founded SaaS company (PHP servers using AWS EC2 & S3 storage); first official business venture.
@@ -39,6 +39,9 @@ aboutMe:
     - event: 2002
       caption: 🎓💻📓 web development program (NYC, NY)
       desc: Learned some Java development & relevant production, deployment (packaging into jar files), plus UI/UX design by mocking up Windows apps, and key JavaScript & HTML3 skills.
+    - event: 1997
+      caption: 💾🏗 published first website (FTP on dial-up modem!)
+      desc: Taught myself HTML2 then nascent JavaScript, built a personal homepage and successfully hosted it on the local ISP.
     
   skills:
     - name: Node.js
@@ -48,11 +51,11 @@ aboutMe:
     - name: CSS
       rank: 8
     - name: JavaScript
-      rank: 8
+      rank: 9
     - name: Python
       rank: 3
     - name: React/Gatsby
-      rank: 9
+      rank: 8
     - name: AWS
       rank: 7
     - name: DNS

@@ -34,7 +34,7 @@
         </div>
         <div>
           <a href="https://jacks.media" target="_blank">
-            <g-image src="~/favicon.png" height="35" width="50" class="mr-5" />
+            <g-image src="~/favicon.png" max-height="35" max-width="50" class="mr-5" />
           </a>
         </div>
         <div>
